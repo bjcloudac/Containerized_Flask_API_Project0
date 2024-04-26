@@ -1,0 +1,4 @@
+
+flask  # install flask package
+black  # Instal Black
+pylint # Install Pylint
