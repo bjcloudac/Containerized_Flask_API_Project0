@@ -9,12 +9,16 @@ app = Flask(__name__)
 # Improved database structure with a dictionary for easier access by ID
 demo_lib_db = {
     25: {
-        "name": "Bijo Joseph",
+        "name": "Ashok Madhav",
         "items": {"book_name": "Harry Potter", "Lease period in days": 20},
     },
     20: {
         "name": "Joe John",
         "items": {"book_name": "Python 3.11", "Lease period in days": 15},
+    },
+    5: {
+        "name": "Bijo Joseph",
+        "items": {"book_name": "Physics & AI ", "Lease period in days": 45},
     },
 }
 
